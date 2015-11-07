@@ -1,5 +1,5 @@
 {
-  "name": "restify-errors",
+  "name": "errors",
   "version": "3.0.0",
   "main": "lib/index.js",
   "description": "Collection of Error objects shared across restify components.",
